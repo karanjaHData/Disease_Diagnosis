@@ -6,11 +6,11 @@ In this era of IT, technology has revolutionized the health domain to a great ex
 
 Clone the repo:
 
-`$ git clone https://github.com/vivekagarwal2349/Disease-Diagnosis-system.git`
+`$ git clone https://github.com/karanjaHData/Disease_Diagnosis`
 
 Open the project's folder:
 
-`$ cd Disease-Diagnosis-system`
+`$ cd Disease_Diagnosis`
 
 install the dependencies:
 
